@@ -9,6 +9,31 @@
         <option name="BACKGROUND" value="2b2b2b" />
       </value>
     </option>
+    <option name="Rainbow Parens Level 2">
+      <value>
+        <option name="FOREGROUND" value="dc322f" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 3">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 7">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 8">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 9">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
