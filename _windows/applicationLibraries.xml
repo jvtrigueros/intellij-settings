@@ -1,5 +1,30 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7.9 virtualenv at C:\Users\Jose\.virtualenvs\pogo-mapsearch interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/pogo-mapsearch/Lib" />
+        <root url="file://$USER_HOME$/.virtualenvs/pogo-mapsearch/Scripts" />
+        <root url="file://C:/tools/python2/Lib" />
+        <root url="file://C:/tools/python2/DLLs" />
+        <root url="file://C:/tools/python2/Lib/lib-tk" />
+        <root url="file://$USER_HOME$/.virtualenvs/pogo-mapsearch" />
+        <root url="file://$USER_HOME$/.virtualenvs/pogo-mapsearch/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/1353143109" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/pogo-mapsearch/Lib" />
+        <root url="file://$USER_HOME$/.virtualenvs/pogo-mapsearch/Scripts" />
+        <root url="file://C:/tools/python2/Lib" />
+        <root url="file://C:/tools/python2/DLLs" />
+        <root url="file://C:/tools/python2/Lib/lib-tk" />
+        <root url="file://$USER_HOME$/.virtualenvs/pogo-mapsearch" />
+        <root url="file://$USER_HOME$/.virtualenvs/pogo-mapsearch/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/1353143109" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="react-15.0.0" type="javaScript">
       <properties>
         <sourceFilesUrls>
