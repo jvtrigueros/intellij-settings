@@ -69,6 +69,10 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files (x86)/Nodist/bin/node.exe" />
+    <local-interpreter path="C:/Program Files (x86)/Nodist/v/6.3.0/node.exe" />
+  </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
