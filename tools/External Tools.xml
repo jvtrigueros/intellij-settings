@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Halite" description="Halite bot game creator." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Jose\bin\halite.exe" />
+      <option name="PARAMETERS" value="-t -d  &quot;30 30&quot; &quot;lein debug&quot; &quot;java -jar MyBot-v1.jar&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
