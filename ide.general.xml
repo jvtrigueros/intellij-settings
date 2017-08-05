@@ -1,6 +1,8 @@
 <application>
   <component name="GeneralSettings">
+    <option name="browserPath" value="C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe" />
     <option name="showTipsOnStartup" value="false" />
+    <option name="useDefaultBrowser" value="false" />
   </component>
   <component name="Registry">
     <entry key="SBT.system.in.process" value="true" />
