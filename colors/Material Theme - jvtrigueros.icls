@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T22:00:29</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-08-10T22:22:30</property>
+    <property name="modified">2017-08-13T11:03:18</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -60,7 +60,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="WHITESPACES" value="2e3c43" />
+    <option name="WHITESPACES" value="7195a8" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
   </colors>
   <attributes>
